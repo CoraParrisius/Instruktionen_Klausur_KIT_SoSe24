@@ -1,7 +1,7 @@
 ---
 title: "Instruktionen zur Klausur"
 subtitle: "[Forschungsmethoden]{.imp} und [Psychologie]{.imp}, 5. August 2024"
-footer: "Folien herunterladen: "
+footer: "Folien herunterladen: https://bit.ly/3LQcVBV"
 format: 
   revealjs:
     embed-resources: true
